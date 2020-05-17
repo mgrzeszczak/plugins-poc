@@ -1,4 +1,6 @@
 .DS_Store
+docker/*.jar
+docker/plugins
 README.md
 .gradle
 build/
